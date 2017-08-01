@@ -1,5 +1,5 @@
 # general configuration
-url: http://excentris.net
+url: https://userdkko.github.io/
 baseurl: ''
 
 # compass configuration
@@ -7,7 +7,7 @@ compass:
   # an avatar or logo (optional)
   logo: "/images/compass.png"
   # author will appear under the avatar (optional)
-  author: "Compass"
+  author: "Daniel Ko"
   # tagline will appear under the title (optional)
   tagline: "The <a href='http://jekyllrb.com'>Jekyll</a> theme for your personal landing page"
   # if include_content is true, the contents of the content.html include will be
