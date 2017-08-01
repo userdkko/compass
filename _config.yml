@@ -1,6 +1,6 @@
 # general configuration
 url: https://userdkko.github.io
-baseurl: '/compass'
+baseurl: ''
 
 # compass configuration
 compass:
